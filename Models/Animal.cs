@@ -11,12 +11,5 @@
         //anotherAnimal.Move();
         //anotherAnimal.Sleep();
 
-        Dragon myDragon = new Dragon("Dragon");
-        myDragon.Move();
-        myDragon.Sleep();
-
-        Griffin myGriffin = new Griffin("Griffin");
-        myGriffin.Move();
-        myGriffin.Sleep();
     }
 }
